@@ -1,4 +1,4 @@
 # ML
 Machine learning 
-Peter Harris working on various machine learning projects
+Area to keep machine learning experiments
 Commit / pull request test
